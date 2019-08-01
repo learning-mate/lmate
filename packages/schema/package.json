@@ -1,0 +1,11 @@
+{
+  "name": "@lmate/schema",
+  "version": "0.0.1-alpha.0",
+  "description": "LMate schema",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LMate ",
+  "license": "ISC"
+}
