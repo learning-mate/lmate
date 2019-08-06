@@ -1,17 +1,18 @@
 {
-  "name": "@lmated/core",
+  "name": "@lmate/styles",
   "version": "0.0.1-alpha.0",
-  "description": "LMate React Components",
+  "description": "lmate styles",
   "main": "lib/index.js",
   "scripts": {
+    "build": "tsc --jsx react",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "LMate ",
+  "author": "LMate",
   "license": "MIT",
   "dependencies": {
     "react": "^16.8.6"
   },
   "devDependencies": {
-    "@types/react": "^16.8.17"
+    "@types/react": "^16.8.14"
   }
 }

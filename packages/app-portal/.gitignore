@@ -1,0 +1,6 @@
+node_modules
+.env
+manifest/dist
+lib
+tsconfig.tsbuildinfo
+config/default.json

@@ -1,0 +1,37 @@
+{
+  "nav": {
+    "items": [
+      { 
+        "text": "My Learning",
+        "pathname": "/learning"
+      },
+      { 
+        "text": "My Teaching",
+        "pathname": "/teaching"
+      },
+      { 
+        "text": "Explore",
+        "pathname": "/explore"
+      },
+      { 
+        "text": "Groups",
+        "pathname": "/groups"
+      }
+    ]
+  },
+  "features": {
+    "learning": {
+      "pathname": "/learning",
+      "component": "./features/Learning"
+    },
+    "explore": {
+      "pathname": "/explore",
+      "component": "./features/Explore"
+    },
+    "teaching": {
+      "pathname": "/teaching",
+      "component": "./features/Teaching"
+    }
+
+  }
+}

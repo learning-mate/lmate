@@ -11,15 +11,15 @@
   "author": "LMate ",
   "license": "MIT",
   "dependencies": {
-    "@go1d/go1d": "^0.7.10",
-    "@lmate/components": "^0.0.1",
-    "@lmatemodels/schema": "^0.0.1",
+    "@lmate/schema": "^0.0.1-alpha.0",
+    "@lmate/design": "^0.0.1-alpha.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
     "react-scripts-ts": "^3.1.0"
   },
   "devDependencies": {
+    "@types/node": "^12.6.9",
     "@types/react": "^16.8.14",
     "@types/react-dom": "^16.8.4",
     "typescript": "^3.4.5"
